@@ -18,7 +18,7 @@ $$/   $$/  $$$$$$/  $$$$$$$/  $$/ $$/   $$/ $$/   $$/  $$$$$$/   $$$$$$/   $$$$$
 ![Robinhood](https://img.shields.io/badge/Robinhood-API_Docs-00C805?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST-API-FF6600?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Unofficial](https://img.shields.io/badge/Unofficial-Documentation-yellow?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Unlicense-blue?style=for-the-badge)
+
 
 **CLI reference browser for Robinhood Trade's unofficial private API documentation**
 
